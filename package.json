@@ -1,0 +1,14 @@
+{
+  "name": "spidey-calculates",
+  "version": "1.0.0",
+  "description": "A web application which can be used for basic calculation ",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spidey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
